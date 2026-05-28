@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260528233204K73DQ3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605282332045Q2JW5</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Dealing with Peer Pressue</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Producto final del curso de Competencia Digital Docente B2. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Isabel García Ruiz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El presente proyecto ha sido elaborado como producto final del CDD B2 de la Junta de Andalucía. 
+Están incluidas todas las tareas que se han ido realizando a lo largo de cada uno de los módulos que completan el curso. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780003912070</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpq0dcm8-r6qoot7n8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. INICIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcm8-r6qoot7n8</odePageId>
+      <odeBlockId>block-1779373508146-38w2bflxb</odeBlockId>
+      <blockName>1. LET&apos;S START</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcm8-r6qoot7n8</odePageId>
+          <odeBlockId>block-1779373508146-38w2bflxb</odeBlockId>
+          <odeIdeviceId>idevice-1779373508144-gtdxty5ug</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hi everyone! </p>
+<p>We are starting a new Learning Situation called “Dealing with Peer Pressure.” In this link, you will find important information that you will need to understand how we are going to work through this Learning Situation. </p>
+<p><a href="https://view.genially.com/6a05d6570a485c0da8d6189b" target="_blank" title="" rel="noopener">Presentación en Genially</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779373508144-gtdxty5ug","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hi everyone! </p>\n<p>We are starting a new Learning Situation called “Dealing with Peer Pressure.” In this link, you will find important information that you will need to understand how we are going to work through this Learning Situation. </p>\n<p><a href=\"https://view.genially.com/6a05d6570a485c0da8d6189b\" target=\"_blank\" title=\"\" rel=\"noopener\">Presentación en Genially</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmd-fnm13nui4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. LICENCIAS Y SEGURIDAD</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. LICENCIAS Y SEGURIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. LICENCIAS Y SEGURIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. LICENCIAS Y SEGURIDAD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmd-fnm13nui4</odePageId>
+      <odeBlockId>block-1779374369864-z7nzs31ql</odeBlockId>
+      <blockName>2. LICENSES &amp; SAFETY</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmd-fnm13nui4</odePageId>
+          <odeBlockId>block-1779374369864-z7nzs31ql</odeBlockId>
+          <odeIdeviceId>idevice-1779374369862-sj840u7uw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Before we start, it is important to pay attention to some tips related to licenses and online safety.                                      Look carefully at this infographic and keep these advices in mind!</p>
+<figure class="exe-figure position-center" style="width: 468px;"><img src="{{context_path}}/content/resources/seguridad digital.jpg" title="Infografía seguridad digital " width="468" height="1170" alt="Infografía sobre seguridad y licencias digitales." />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374369862-sj840u7uw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Before we start, it is important to pay attention to some tips related to licenses and online safety.                                      Look carefully at this infographic and keep these advices in mind!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 468px;\"><img src=\"{{context_path}}/content/resources/seguridad digital.jpg\" title=\"Infografía seguridad digital \" width=\"468\" height=\"1170\" alt=\"Infografía sobre seguridad y licencias digitales.\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmf-1f3e8ki5v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. HERRAMIENTA PARA EL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. HERRAMIENTA PARA EL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. HERRAMIENTA PARA EL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. HERRAMIENTA PARA EL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmf-1f3e8ki5v</odePageId>
+      <odeBlockId>block-1779375406123-gy45icw7t</odeBlockId>
+      <blockName>3. DIGITAL TOOL FOR THE FINAL PROJECT</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmf-1f3e8ki5v</odePageId>
+          <odeBlockId>block-1779375406123-gy45icw7t</odeBlockId>
+          <odeIdeviceId>idevice-1779375406121-5mrrmie8a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The final project of this Learning Situation, entitled “Dealing with Peer Pressure,” consists of recording a trailer that will represent a situation involving bullying, cyberbullying, or discrimination. </p>
+<p>Among the video editing programs I have tested, <a href="https://clipchamp.com" target="_blank" title="" rel="noopener">Clipchamp</a> is the most suitable for you. It is an intuitive online application with a simple and visual interface that works directly from the browser, so no installation is required.</p>
+<p>With this tool, you can easily edit your videos by dragging and dropping elements, adding music, transitions, and effects. It also includes templates, automatic subtitles, and useful features for creating trailers. This tool allows you to create attractive results without advanced technical knowledge while also improving their digital skills.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779375406121-5mrrmie8a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The final project of this Learning Situation, entitled “Dealing with Peer Pressure,” consists of recording a trailer that will represent a situation involving bullying, cyberbullying, or discrimination. </p>\n<p>Among the video editing programs I have tested, <a href=\"https://clipchamp.com\" target=\"_blank\" title=\"\" rel=\"noopener\">Clipchamp</a> is the most suitable for you. It is an intuitive online application with a simple and visual interface that works directly from the browser, so no installation is required.</p>\n<p>With this tool, you can easily edit your videos by dragging and dropping elements, adding music, transitions, and effects. It also includes templates, automatic subtitles, and useful features for creating trailers. This tool allows you to create attractive results without advanced technical knowledge while also improving their digital skills.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmg-mnu846857</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. HERRAMIENTAS PARA LA CURACIÓN DE CONTENIDO.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. HERRAMIENTAS PARA LA CURACIÓN DE CONTENIDO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. HERRAMIENTAS PARA LA CURACIÓN DE CONTENIDO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. HERRAMIENTAS PARA LA CURACIÓN DE CONTENIDO.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmg-mnu846857</odePageId>
+      <odeBlockId>block-1779376641179-uvbjgytfe</odeBlockId>
+      <blockName>USEFUL TOOLS AND RESOURCES FOR STUDENTS AND TEACHERS</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmg-mnu846857</odePageId>
+          <odeBlockId>block-1779376641179-uvbjgytfe</odeBlockId>
+          <odeIdeviceId>idevice-1779376641178-nw8wrfyf4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>On the following subpages, students and teachers are provided with some useful resources to work independently.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779376641178-nw8wrfyf4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>On the following subpages, students and teachers are provided with some useful resources to work independently.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmi-tpg4at2z5</odePageId>
+  <odeParentPageId>page-mpq0dcmg-mnu846857</odeParentPageId>
+  <pageName>4.1. HERRAMIENTAS PARA EL ALUMNADO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. HERRAMIENTAS PARA EL ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. HERRAMIENTAS PARA EL ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1. HERRAMIENTAS PARA EL ALUMNADO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmi-tpg4at2z5</odePageId>
+      <odeBlockId>block-1779376243974-twbd3czs8</odeBlockId>
+      <blockName>RESOURCES AND TOOLS FOR STUDENTS.</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmi-tpg4at2z5</odePageId>
+          <odeBlockId>block-1779376243974-twbd3czs8</odeBlockId>
+          <odeIdeviceId>idevice-1779376243973-pzz3zfoki</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dear students,</p>
+<p>In the following link you will find the<em> padlet</em> of the this learning situation with different resources and tools to help you not only create your final proyect, but also work through this unit. You will find five different categories: Grammar, (Cyber)bullying, Discrimination, Peer Pressure, and  Online Tools. Each category includes videos, websites and infographics that contain useful extra information about the topics we are working on. </p>
+<p><a href="https://padlet.com/isablgr/dealing-with-peer-pressure-u1xhf9656dcjrubx" target="_blank" title="" rel="noopener">Padlet </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779376243973-pzz3zfoki","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dear students,</p>\n<p>In the following link you will find the<em> padlet</em> of the this learning situation with different resources and tools to help you not only create your final proyect, but also work through this unit. You will find five different categories: Grammar, (Cyber)bullying, Discrimination, Peer Pressure, and  Online Tools. Each category includes videos, websites and infographics that contain useful extra information about the topics we are working on. </p>\n<p><a href=\"https://padlet.com/isablgr/dealing-with-peer-pressure-u1xhf9656dcjrubx\" target=\"_blank\" title=\"\" rel=\"noopener\">Padlet </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmj-89d1nm1uv</odePageId>
+  <odeParentPageId>page-mpq0dcmg-mnu846857</odeParentPageId>
+  <pageName>4.2. HERRAMIENTAS PARA LOS DOCENTES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. HERRAMIENTAS PARA LOS DOCENTES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. HERRAMIENTAS PARA LOS DOCENTES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.2. HERRAMIENTAS PARA LOS DOCENTES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmj-89d1nm1uv</odePageId>
+      <odeBlockId>block-1779376358335-bdgdmh75o</odeBlockId>
+      <blockName>RESOURCES AND TOOLS FOR TEACHERS</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmj-89d1nm1uv</odePageId>
+          <odeBlockId>block-1779376358335-bdgdmh75o</odeBlockId>
+          <odeIdeviceId>idevice-1779376358333-mgngef3a3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dear teachers, </p>
+<p>In the following link, you will find my Symbaloo site, where I save and organize some of my favourite online resources and tools that support and enrich my teaching practice. </p>
+<p><a href="https://www.symbaloo.com/home/mix/13ePGfifJc" title="">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779376358333-mgngef3a3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dear teachers, </p>\n<p>In the following link, you will find my Symbaloo site, where I save and organize some of my favourite online resources and tools that support and enrich my teaching practice. </p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13ePGfifJc\" title=\"\">Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmk-rcroza4i9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. CONCRECIÓN CURRICULAR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmk-rcroza4i9</odePageId>
+      <odeBlockId>block-1779379597296-kkkqhtq0h</odeBlockId>
+      <blockName>TEACHER&apos;S GUIDE</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmk-rcroza4i9</odePageId>
+          <odeBlockId>block-1779379597296-kkkqhtq0h</odeBlockId>
+          <odeIdeviceId>idevice-1779379597295-u4hstjtlg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The following link opens a Google Document containing the activities and tasks for this Learning Situation, along with their evaluation criteria, grouping, timing, and digital tools. </p>
+<p><br /></p>
+<p><a href="https://docs.google.com/document/d/10ewm-rxM4TEodmAzUllVWwonb1J2ujKq9QB8sZUp_ZY/edit?usp=sharing" target="_blank" rel="noopener" title="">Curricular specification</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779379597295-u4hstjtlg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The following link opens a Google Document containing the activities and tasks for this Learning Situation, along with their evaluation criteria, grouping, timing, and digital tools. </p>\n<p><br /></p>\n<p><a href=\"https://docs.google.com/document/d/10ewm-rxM4TEodmAzUllVWwonb1J2ujKq9QB8sZUp_ZY/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Curricular specification</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcml-e1xjync23</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. TEMPORALIZACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcml-e1xjync23</odePageId>
+      <odeBlockId>block-1779381897718-tfw6xeurp</odeBlockId>
+      <blockName>TIMELINE</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcml-e1xjync23</odePageId>
+          <odeBlockId>block-1779381897718-tfw6xeurp</odeBlockId>
+          <odeIdeviceId>idevice-1779381897717-cqv7p6s6l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">This Learning Situation follows a specific timeline of 11 sesions, each lasting 60 minutes. The infographic bellow shows the timeline for working through this Learning Situation. It also includes information about the tasks, grouping, and the materials and tools requiered by the students.  It is intended to be displayed in the classroom throughout the unit for the students to have a global vision of the unit and supports them with their own organization. </p>
+<figure class="exe-figure position-center" style="width: 404px;"><img src="{{context_path}}/content/resources/timeline(1).png" title="Timeline" width="404" height="1010" alt="Timeline of the Learning Situation" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381897717-cqv7p6s6l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">This Learning Situation follows a specific timeline of 11 sesions, each lasting 60 minutes. The infographic bellow shows the timeline for working through this Learning Situation. It also includes information about the tasks, grouping, and the materials and tools requiered by the students.  It is intended to be displayed in the classroom throughout the unit for the students to have a global vision of the unit and supports them with their own organization. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 404px;\"><img src=\"{{context_path}}/content/resources/timeline(1).png\" title=\"Timeline\" width=\"404\" height=\"1010\" alt=\"Timeline of the Learning Situation\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmn-cievtz0od</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmn-cievtz0od</odePageId>
+      <odeBlockId>block-1779382909459-u8yuidve1</odeBlockId>
+      <blockName>ASSESSMENT INSTRUMENTS</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmn-cievtz0od</odePageId>
+          <odeBlockId>block-1779382909459-u8yuidve1</odeBlockId>
+          <odeIdeviceId>idevice-1779382909458-hnf7ulbw8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The final project of this Learning Situation is the creation of a trailer about a situacion of bullying, cyberbullying, or discrimination. I have chosen two different assessment instruments to evaluate the final projects: a rubric and a spider chart. The first one is intended for the teacher, while the second one is designed for peer assessment. </p>
+<p>To close the learning process of this learning situation, I have also included a third assessment instrument. In this case, it is a self-assessment Google Forms questionnaire for the students to evaluate their own work. </p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779382909458-hnf7ulbw8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The final project of this Learning Situation is the creation of a trailer about a situacion of bullying, cyberbullying, or discrimination. I have chosen two different assessment instruments to evaluate the final projects: a rubric and a spider chart. The first one is intended for the teacher, while the second one is designed for peer assessment. </p>\n<p>To close the learning process of this learning situation, I have also included a third assessment instrument. In this case, it is a self-assessment Google Forms questionnaire for the students to evaluate their own work. </p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmo-18gtt2ayu</odePageId>
+  <odeParentPageId>page-mpq0dcmn-cievtz0od</odeParentPageId>
+  <pageName>RÚBRICA DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RÚBRICA DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmo-18gtt2ayu</odePageId>
+      <odeBlockId>block-1779384285376-p5jj7kfcv</odeBlockId>
+      <blockName>ASSESSMENT RUBRIC</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmo-18gtt2ayu</odePageId>
+          <odeBlockId>block-1779384285376-p5jj7kfcv</odeBlockId>
+          <odeIdeviceId>idevice-1779384285375-pb9qttpjq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The final project of the Learning Situation I propose is the creation of a video in the form of a trailer about a situation of bullying, cyberbullying, or discrimination.</p>
+<p>As the project involves multiple competences—use of English, oral expression, creativity, digital competence, and social reflection—the rubric seems to me the most appropriate assessment instrument, as it allows all these aspects to be evaluated through specific criteria and well-defined performance levels. It is a very useful tool because it promotes objective and fair assessment.</p>
+<p><br /></p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Assessment rubric video cddb2 _page-0001.jpg" width="800" height="565" alt="" style="display: block; margin-left: auto; margin-right: auto;" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779384285375-pb9qttpjq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The final project of the Learning Situation I propose is the creation of a video in the form of a trailer about a situation of bullying, cyberbullying, or discrimination.</p>\n<p>As the project involves multiple competences—use of English, oral expression, creativity, digital competence, and social reflection—the rubric seems to me the most appropriate assessment instrument, as it allows all these aspects to be evaluated through specific criteria and well-defined performance levels. It is a very useful tool because it promotes objective and fair assessment.</p>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Assessment rubric video cddb2 _page-0001.jpg\" width=\"800\" height=\"565\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmp-va6hqdqje</odePageId>
+  <odeParentPageId>page-mpq0dcmn-cievtz0od</odeParentPageId>
+  <pageName>COEVALUACIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COEVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COEVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>COEVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmp-va6hqdqje</odePageId>
+      <odeBlockId>block-1779384018980-kte9gb93g</odeBlockId>
+      <blockName>PEER- ASSESSMENT</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmp-va6hqdqje</odePageId>
+          <odeBlockId>block-1779384018980-kte9gb93g</odeBlockId>
+          <odeIdeviceId>idevice-1779384018978-zvz9vs6k8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>After watching each trailer, students will assess the different projects using a spider chart. In this case, a poster with the spider chart will be displayed in the classroom after the video screening and students will evaluate it by placing an dot in each circle corresponding to a level of achievement. </p>
+<p>This type of assessment promotes peer assessment, encouraging critical thinking, as students visually and in a simple form evaluate different aspects of their classmates' work. By representing results graphically, students can easily identify their strengths and areas of improvement. </p>
+<p>Another important aspect of the assessment wheel is that it reduces the negative perception of assessment, as it is a dynamic and participatory process. </p>
+<p><br /></p>
+<figure class="exe-figure position-center" style="width: 601px;"><img src="{{context_path}}/content/resources/Kopie von SELF-ASSESSMENT SPIDER GRAPH.png" title="Spider chart" width="601" height="850" alt="Diana de evaluación" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779384018978-zvz9vs6k8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>After watching each trailer, students will assess the different projects using a spider chart. In this case, a poster with the spider chart will be displayed in the classroom after the video screening and students will evaluate it by placing an dot in each circle corresponding to a level of achievement. </p>\n<p>This type of assessment promotes peer assessment, encouraging critical thinking, as students visually and in a simple form evaluate different aspects of their classmates' work. By representing results graphically, students can easily identify their strengths and areas of improvement. </p>\n<p>Another important aspect of the assessment wheel is that it reduces the negative perception of assessment, as it is a dynamic and participatory process. </p>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 601px;\"><img src=\"{{context_path}}/content/resources/Kopie von SELF-ASSESSMENT SPIDER GRAPH.png\" title=\"Spider chart\" width=\"601\" height=\"850\" alt=\"Diana de evaluación\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmq-659vj1d3c</odePageId>
+  <odeParentPageId>page-mpq0dcmn-cievtz0od</odeParentPageId>
+  <pageName>AUTOEVALUACIÓN</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTOEVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTOEVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>AUTOEVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmq-659vj1d3c</odePageId>
+      <odeBlockId>block-1779383862304-fkbvhkj8b</odeBlockId>
+      <blockName>SELF-ASSESSMENT</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmq-659vj1d3c</odePageId>
+          <odeBlockId>block-1779383862304-fkbvhkj8b</odeBlockId>
+          <odeIdeviceId>idevice-1779383862302-311sox0dt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>At the end of the Learning Situation, students will complete a digital questionnarie created with Google Forms to evaluate their participation and learning process throught the Learning Situation. Self-assessment encourages critical reflection on their performance, autonomy, and responsability. </p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd9QnlOPia1LnB9K10AnsIzhGilaLaKNHxwSu2USv5NDK436A/viewform?usp=publish-editor" target="_blank" title="" rel="noopener">Questionnaire</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779383862302-311sox0dt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>At the end of the Learning Situation, students will complete a digital questionnarie created with Google Forms to evaluate their participation and learning process throught the Learning Situation. Self-assessment encourages critical reflection on their performance, autonomy, and responsability. </p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd9QnlOPia1LnB9K10AnsIzhGilaLaKNHxwSu2USv5NDK436A/viewform?usp=publish-editor\" target=\"_blank\" title=\"\" rel=\"noopener\">Questionnaire</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpq0dcmr-4dfdolazi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpq0dcmr-4dfdolazi</odePageId>
+      <odeBlockId>block-1779908200878-s1oacpijl</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpq0dcmr-4dfdolazi</odePageId>
+          <odeBlockId>block-1779908200878-s1oacpijl</odeBlockId>
+          <odeIdeviceId>idevice-1779908200877-6q0m9dyxz</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>General information about this educational resource</caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Dealing with Peer Pressue</span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El presente proyecto ha sido elaborado como producto final del CDD B2 de la Junta de Andalucía. 
+Están incluidas todas las tareas que se han ido realizando a lo largo de cada uno de los módulos que completan el curso. </span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Isabel García Ruiz</span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Download .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
